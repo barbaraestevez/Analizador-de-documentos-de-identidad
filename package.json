@@ -1,0 +1,11 @@
+{
+  "name": "test-nif",
+  "version": "1.0.0",
+  "description": "analiza documentos nif, nie, cif",
+  "main": "nif-test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bárbara Estévez",
+  "license": "ISC"
+}
